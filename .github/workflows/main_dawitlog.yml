@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'dawitlog'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B386D09F19F64FD3A1AD06C324E94799 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB976AB8658E4A9B897EFED17589F1BC }}
           package: .
